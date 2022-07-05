@@ -1,5 +1,11 @@
 ## 2019
 
+### [OpenSource Summit EU](https://osseu19.sched.com/event/TLFG/instrumenting-applications-and-alerting-with-prometheus-simon-pasquier-red-hat)
+
+Instrumenting Applications and Alerting with Prometheus.
+
+[Slides](https://docs.google.com/presentation/d/1Kv2f_m3qdqO-Rr0rxNe-eDAiDofgRMcGdZMHayB2DI0/edit?usp=sharing)
+
 ### [Snowcamp](https://snowcamp2019.sched.com/event/J2sK/kiali-pour-mieux-observer-ses-microservices)
 
 Get visibility on your microservices architecture with [Kiali](https://kiali.io/), the observability console for [Istio](https://istio.io).
